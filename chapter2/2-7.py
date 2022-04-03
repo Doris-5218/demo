@@ -1,0 +1,5 @@
+i=(" \tDoris ")
+print(i)
+print(i.lstrip())
+print(i.rstrip())
+print(i.strip())
