@@ -10,5 +10,5 @@ print(place)
 
 place.sort()
 print(place)
-place.sort(reverse-True)
-printI
+place.sort(reverse=True)
+print(place)

@@ -4,9 +4,11 @@ print(my_flavors)
 print(my_friend_flavors)
 my_flavors.append("Pepperoni")
 my_friend_flavors.append("Neapolitan")
+
 print("My favorite pizzas are:")
 for pizza in my_flavors:
-    print(my_flavors)
+    print(pizza)
+    
 print("My friend's favorite pizzas are:")
 for pizza in my_friend_flavors:
-    print(my_friend_flavors)
+    print(pizza)
