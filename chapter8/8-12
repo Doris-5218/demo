@@ -1,0 +1,7 @@
+def make_sandwich(*materials):
+    print("\nMaking a sandwich with the following materials:")
+    for material in materials:
+        print("- " + material)
+make_sandwich("lettuce","ham","egg")
+make_sandwich("chicken","avocado")
+make_sandwich("pork")
